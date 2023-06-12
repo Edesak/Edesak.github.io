@@ -1,6 +1,6 @@
 This is repository of my github page. <br>
 
-<h1><a href="edesak.github.io">WEB</a></h1>
+<h2><a href="https://edesak.github.io">WEB</a></h2>
 
 
 Original template credits:
